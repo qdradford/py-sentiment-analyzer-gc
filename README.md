@@ -1,4 +1,12 @@
 # py-sentiment-analyzer-gc
----
+
 ## Install Dependencies
-- pip install -r requirements.txt 
+1. Install Python
+```python
+2. pip install -r requirements.txt 
+```
+---
+## Run Application
+```python
+python main.py
+```
